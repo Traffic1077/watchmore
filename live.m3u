@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/File:Sun_Bangla.png” group-title=”Bangla”, Sun Bangla
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index750.m3u8
